@@ -14,5 +14,17 @@
 
 - Reusable components.
 - Props with type check.
+- Options API
 
 ### <a href="https://github.com/alex1the1great/Counter-App" target="_blank">Code</a>
+
+## 3: Planner
+
+> Plan your today to stay inside the flow to do the task.
+
+### Topic cover
+
+- Composition API
+- Computed property
+
+### <a href="https://github.com/alex1the1great/Planner-vue" target="_blank">Code</a>
